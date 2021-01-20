@@ -1,7 +1,7 @@
 {
-	"name":              "haxe-skija",
+	"name":              "haxe-lwjgl",
 	"license":           "MIT",
-	"description":       "JetBrains Skija for Haxe",
+	"description":       "LWJGL for Haxe",
 	"version":           "0.0.1",
 	"contributors":      ["davidbruce"],
 	"classPath":         "src/"
